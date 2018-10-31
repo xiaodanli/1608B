@@ -13,3 +13,6 @@ html,body{
     height: 100%;
     overflow: hidden;
 }
+.swiper-container{
+    width:100%;
+}
